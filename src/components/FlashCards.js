@@ -4,7 +4,7 @@ import './FlashCards.css';
 import CardForm from './CardForm';
 
 const FlashCards = () => {
-  // ... (previous code)
+  
 
   // Function to handle sharing selected cards via email
   const handleShare = () => {
@@ -41,11 +41,10 @@ const FlashCards = () => {
     fetchCardsFromServer();
   }, []);
 
-  // ... (previous code)
+  
 
   return (
     <div>
-      {/* ... (previous code) */}
       {/* Bonus Section */}
       <div>
         <h2>Bonus Features:</h2>
