@@ -1,0 +1,30 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript, recommended to use with React. It looks similar to XML/HTML."
+    },
+    {
+      "id": 3,
+      "question": "What is a component in React?",
+      "answer": "A component is a reusable, self-contained piece of code that can be composed with other components to build a user interface."
+    },
+    {
+      "id": 4,
+      "question": "What is state in React?",
+      "answer": "State is a data structure that allows a component to keep track of changes and manage its data."
+    },
+    {
+      "id": 5,
+      "question": "What is a React Hook?",
+      "answer": "A Hook is a special function that allows you to use state and other React features in functional components."
+    }
+  ],
+  "messages": []
+}

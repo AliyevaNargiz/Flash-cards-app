@@ -1,0 +1,42 @@
+/* Contact.css */
+.Contact {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff6b6b; /* Pinky color */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin: 10px;
+  color: #ff6b6b; /* Pinky color */
+}
+
+input,
+textarea {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ff6b6b; /* Pinky color */
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background-color: #ff6b6b; /* Pinky color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff4d4d; /* Lighter shade of pink */
+}
