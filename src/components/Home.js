@@ -12,18 +12,18 @@ const Home = () => {
       <ul>
         <li>
           <a
-            href="https://github.com/your-username/project1"
+            href="https://aliyevanargiz.github.io/portfolio/"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="Personal Portfolio"
           >
             Project 1
           </a>
         </li>
         <li>
           <a
-            href="https://github.com/your-username/project2"
+            href="https://aliyevanargiz.github.io/assignment2-api-WaM/"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="Fetchin Data from Dummy Api"
           >
             Project 2
           </a>
